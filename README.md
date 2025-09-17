@@ -33,7 +33,3 @@ The goal is to uncover data-driven insights for hosts, travelers, and policymake
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Jupyter Notebook**: Data exploration & visualization  
 
-## 🚀 How to Run
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/airbnb-nyc-2024.git
